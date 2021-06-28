@@ -1,0 +1,30 @@
+body > header {
+    background-color: dodgerblue;
+    color: white;
+  }
+nav > ul {
+        list-style: none;
+  }
+  nav > ul > li > a {
+    color: white;
+  }
+  body > footer {
+    padding: 2px;
+    background-color: dodgerblue;
+  }
+  
+  body > footer > h5{   
+    text-align: center;
+    color: white;
+  }
+  body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  body > main {
+    margin: auto;
+    width: 70%;
+  }
+  
+  
+  
